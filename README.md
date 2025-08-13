@@ -1,7 +1,7 @@
 ### Hi there I’m Sahadat Hossen👋
 
 <!--
-**DearYoungStars/DearYoungStars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SahadatHossenHQ/SahadatHossenHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Modern Web Technologies
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Frontend Development
-- 📫 To reach me - sahadathossen.contact@gmail.com
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 To reach me - sahadathossenhq@gmail.com
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:sahadathossen.contact@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:sahadathossenhq@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
