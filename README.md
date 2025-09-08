@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👀 I’m interested in Modern Web Technologies
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 To reach me - sahadathossenhq@gmail.com
 
