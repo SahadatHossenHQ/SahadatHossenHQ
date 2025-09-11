@@ -62,6 +62,7 @@ I aim to contribute my skills in **scalable applications, CMS customization, and
 - 🛒 **E-Commerce (Laravel)** → [Minne's Art Gallery](https://www.minnesartgallery.com/)
 - **</>** **Figma to code** → [HoneyBee](https://www.ourhoneybee.eu/)  
 - 🎓 **Learning Management System (Laravel)** → [Ambitions Global](https://www.ambitionsglobal.com/)  
+- **</>** **Active eCommerce CMS Customization** → [ActiveITzone](https://www.codecanyon.net/item/active-ecommerce-cms/23471405)
 
 ---
 
