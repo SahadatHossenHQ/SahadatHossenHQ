@@ -22,8 +22,6 @@ I aim to contribute my skills in **scalable applications, CMS customization, and
 </tr>
 </table>
 
----
-
 ## 🛠 Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" />
